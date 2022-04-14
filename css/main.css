@@ -115,7 +115,7 @@ header .swing {
   position: absolute;
   right: 5%;
   bottom: 5%;
-  background-image: url('/assets/me.svg');
+  background-image: url('../assets/me.svg');
   background-repeat: no-repeat;
   background-size: contain;
   background-position: 500px;
