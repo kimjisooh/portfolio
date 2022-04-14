@@ -676,7 +676,7 @@ section {
   left: 0;
   width: 100%;
   height: 100vh;
-  background-image: url('../images/공유서울BG.png');
+  background-image: url('../공유서울BG.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -863,7 +863,7 @@ section {
   top: 0;
   width: 100%;
   height: 100vh;
-  background-image: url('../images/제천화폐모아BG.png');
+  background-image: url('../제천화폐모아BG.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -1036,7 +1036,7 @@ section {
   /* flex-direction: column; */
   width: 100vw;
   height: 100vh;
-  background-image: url('../images/청소년안전망BG.png');
+  background-image: url('../청소년안전망BG.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
