@@ -1177,22 +1177,38 @@ section {
   justify-content: center;
   align-items: center;
   background-color: #ffffff;
-  width: 100%;
+  /* background-image: url('/images/끝BG.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; */
+  width: 100vw;
   height: 100vh;
 }
 
 .bottom-pg p {
   position: absolute;
-  font-size: 2rem;
-  top: 35%;
-  left: 43%;
-  font-weight: 500;
+  font-size: 3rem;
+  top: 30%;
+  left: 37%;
+  font-weight: 600;
   color: #000;
 }
 
-.bottom-pg .img {
+.bottom-pg #screamer-icon {
   position: absolute;
-  left: 39%;
+  left: 38%;
+  top: 10%;
+  width: 40%;
+  height: 40%;
+  background-image: url('../assets/screamer.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  transition-delay: 0.5s;
+}
+
+.bottom-pg #img {
+  position: absolute;
+  left: 37%;
   bottom: 0;
   width: 50%;
   height: 50%;
